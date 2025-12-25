@@ -1,7 +1,7 @@
 langchain
 langchain-core
 langchain-community
-pypd
+pypdf
 pymupdf
 sentence-transformers
 chromadb

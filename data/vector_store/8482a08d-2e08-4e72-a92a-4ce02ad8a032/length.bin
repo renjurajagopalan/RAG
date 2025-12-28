@@ -1,0 +1,5 @@
+intuitive, and clean description of the transformer architecture. We will not discuss training as this is
+rather standard. We assume that the reader is familiar with fundamental topics in machine learning
+including multi-layer perceptrons, linear transformations, softmax functions and basic probability.
+1See Phuong and Hutter [2022] for an exception to this.
+arXiv:2304.10557v5  [cs.LG]  8 Feb 2024

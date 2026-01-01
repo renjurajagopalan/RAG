@@ -1,5 +1,1 @@
-intuitive, and clean description of the transformer architecture. We will not discuss training as this is
-rather standard. We assume that the reader is familiar with fundamental topics in machine learning
-including multi-layer perceptrons, linear transformations, softmax functions and basic probability.
-1See Phuong and Hutter [2022] for an exception to this.
-arXiv:2304.10557v5  [cs.LG]  8 Feb 2024
+invalid type: string "editors, Proceedings of the 37th International Conference on Machine Learn-\ning, volume 119 ofProceedings of Machine Learning Research, pages 10524–\n10533. PMLR, 13–18 Jul 2020. URLhttps://proceedings.mlr.press/\nv119/xiong20b.html.\n9", expected a booleangiven the input image\nwhich has been tokenised into the sequenceX(0), that isp(y|X(0)). One way\nt\non", expected t
